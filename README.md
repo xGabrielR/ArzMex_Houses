@@ -33,9 +33,8 @@
 <h2>2. Process Insight's</h2>
 <p>Some insight's to CEO during the EDA and Data Clearing.</p>
 <ol>
-  <li>Waterfront properties are approximately 30% more expensive than average.</li>
+  <li>Lat Long with some Errors, need to checkout the Lat long to Engineering Team.</li>
   <li>With more than two floors, properties are approximately 5% more expensives than average.</li>
-  <li>YoY price of properties is approximately 5%.</li>
 </ol>
 
 <h2>3. CEO Geral Process</h2>
@@ -55,7 +54,6 @@
   <li>CEO request Maps.</li>
     <ul>
       <li>Folium map with zipcodes.</li>
-      <li>Folium map with price density.</li>
     </ul>
   <li>Annual and Daily price changes.</li>
     <ul>
