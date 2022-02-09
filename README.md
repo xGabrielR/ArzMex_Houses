@@ -25,16 +25,14 @@
       <dd>- Per Price.</dd>
       <dd>- Number of Bedrooms.</dd>
       <dd>- Number of Bathrooms</dd>
-      <dd>- Number of Floors.</dd>
-      <dd>- Have Waterfront.</dd>
   </dl>
 </ul>
 
 <h2>2. Process Insight's</h2>
 <p>Some insight's to CEO during the EDA and Data Clearing.</p>
 <ol>
-  <li>Lat Long with some Errors, need to checkout the Lat long to Engineering Team.</li>
-  <li>With more than two floors, properties are approximately 5% more expensives than average.</li>
+  <li>Zipcode with suspicious errors need to checkout the Lat long to Engineering Team.</li>
+  <li>Houses price density concentrate at Phonex Region.</li>
 </ol>
 
 <h2>3. CEO Geral Process</h2>
