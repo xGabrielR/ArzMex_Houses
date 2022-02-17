@@ -3,7 +3,7 @@
 ![Fig](https://user-images.githubusercontent.com/75986085/131189690-4f75bbf1-8fd4-40e6-80d2-8d6b75779771.png)
 
 <h2>0. Introduction</h2>
-<p>ArzMex Hopuses have a bussiness model is purchasing & reselling properties located on Arizona at USA on digital app similar with House Rocket Idea. The request is a complete dashboard of portfolios the dashboard contains some filters like zipcode, price, and contains maps with distribuition of the portfolios, with some characteristics for better decisions.</p>
+<p>ArzMex Houses have a bussiness model is purchasing & reselling properties located on Arizona at USA on digital app similar with House Rocket Idea. The request is a complete dashboard of portfolios the dashboard contains some filters like zipcode, price, and contains maps with distribuition of the portfolios, with some characteristics for better decisions.</p>
 
 <h2>1. Bussines Problem</h2>
 <p>One of Manangers with CEO requested several filters to be able to see how the company is doing!</p>
